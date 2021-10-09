@@ -4,4 +4,4 @@
 ### 正在努力地积攒知识
 ### 希望以后能够参与独立游戏的开发(*^▽^*)
 
-### 当前目标:开发[EtherEngineX](https://github.com/EtherProject/EtherEngineX)
+### 当前目标:学习OpenGL及Lua源码实现
