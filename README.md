@@ -4,6 +4,6 @@
 ### 正在努力地积攒知识
 ### 希望以后能够参与独立游戏的开发(*^▽^*)
 
-### 当前目标:学习OpenGL及Lua源码实现
+### 当前目标:制作[AdenClient](https://github.com/cardinaldevgroup/AdenClient)
 
 ### 以及练习作乐
