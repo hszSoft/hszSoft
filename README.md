@@ -37,6 +37,12 @@
   
 </details>
 
+# 当前处理工作
+
+[【DustEngine】用于制作幽灵球的游戏引擎](https://github.com/hszOfficial-16/DustEngine)
+
+【幽灵球】解谜题材的 2D 平台跳跃游戏（负责其程序与音乐）
+
 # 联系方式
 + QQ：1760432001
 + 微信：hszOfficial
